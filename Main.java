@@ -24,6 +24,5 @@ public class Main {
     }
     System.out.println("Y cuál fué su respuesta????");
     System.out.println("Pues 'QUE COÑO HASES CAGO EN TO'");
-    //Solo quiero poner algo nuevo
     }
 }
